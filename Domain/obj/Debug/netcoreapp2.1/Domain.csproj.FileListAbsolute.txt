@@ -1,9 +1,0 @@
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\bin\Debug\netcoreapp2.1\Domain.dll
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\obj\Debug\netcoreapp2.1\Domain.dll
-C:\Users\ricar\OneDrive\Área de Trabalho\Senai\gateaway\GatewayAPI\Domain\obj\Debug\netcoreapp2.1\Domain.pdb

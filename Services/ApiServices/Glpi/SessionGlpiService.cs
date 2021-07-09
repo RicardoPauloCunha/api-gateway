@@ -4,8 +4,6 @@ using Domain.Responses.Glpi;
 using Refit;
 using Service.InterfacesApi.Glpi;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Service.ApiServices.Glpi
@@ -22,7 +20,7 @@ namespace Service.ApiServices.Glpi
         public async Task<SessionGlpiResponse> EfetuarLogin(LoginGlpiRequest loginGlpi)
         {
             // Declara a variavel sessionGlpi
-            SessionGlpiResponse sessionGlpi = null;
+            SessionGlpiResponse sessionGlpi;
 
             try
             {

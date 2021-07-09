@@ -4,7 +4,6 @@ using Refit;
 using Service.InterfacesApi.Glpi;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Service.ApiServices.Glpi
@@ -21,7 +20,7 @@ namespace Service.ApiServices.Glpi
         public async Task<List<UsuarioGlpiResponse>> ListarUsuarios(string tokenGlpi)
         {
             // Declara a variavel sessionGlpi
-            List<UsuarioGlpiResponse> usuarios = null;
+            List<UsuarioGlpiResponse> usuarios;
 
             try
             {

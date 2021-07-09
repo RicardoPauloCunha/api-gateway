@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Domain.Domains
+﻿namespace Domain.Domains
 {
     public class DefaultDomain
     {
+
     }
 }
